@@ -3,8 +3,8 @@
     "id": "STU001",
     "name": "Alice Johnson",
     "major": "Computer Science",
-    "enrolledCourses": [],
-    "completedCourses": [
+    "enrolled_courses": [],
+    "completed_courses": [
       "CS101"
     ]
   },
@@ -12,15 +12,15 @@
     "id": "STU002",
     "name": "Bob Smith",
     "major": "Mathematics",
-    "enrolledCourses": [],
-    "completedCourses": []
+    "enrolled_courses": [],
+    "completed_courses": []
   },
   {
     "id": "STU003",
     "name": "Carol Williams",
     "major": "Information Technology",
-    "enrolledCourses": [],
-    "completedCourses": [
+    "enrolled_courses": [],
+    "completed_courses": [
       "CS101",
       "CS201"
     ]
@@ -29,9 +29,16 @@
     "id": "6888123",
     "name": "Chaiyong",
     "major": "SE",
-    "enrolledCourses": [
+    "enrolled_courses": [
       "CS101"
     ],
-    "completedCourses": []
+    "completed_courses": []
+  },
+  {
+    "id": "6688009",
+    "name": "Sunattha",
+    "major": "SE",
+    "enrolled_courses": [],
+    "completed_courses": []
   }
 ]
